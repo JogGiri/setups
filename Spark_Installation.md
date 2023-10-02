@@ -10,11 +10,12 @@ software location download & install.
 - SPARK_HOME=C:\spark\spark-3.3.2-bin-hadoop2
 - PYSPARK_HOME= C:\Users\your_name\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.6\python.exe
 
+How to get this path:
+- HADOOP_HOME contains Winutils path.
+- PYSPARK_HOME contains Python path.
+-  We can get python path by: Search "python" in windows search bar, then select "Open file location", copy than and add '\python.exe' in last.
+
 Set the Environment variables:-
 - %JAVA_HOME%\bin
 - %HADOOP_HOME%\bin
 - %SPARK_HOME%\bin
-
-- HADOOP_HOME contains Winutils path.
-- PYSPARK_HOME contains Python path. We can get python path by:
-- Search "python" in windows search bar, then select "Open file location", copy than and add '\python.exe' in last.
