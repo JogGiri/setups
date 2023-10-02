@@ -1,9 +1,9 @@
-** Download software:- **
+Download software:- 
 
-Java JDK:- [https://rb.gy/nk8zw]
-Python Software:-[https://www.python.org/downloads/release/python-367/]
-Spark software:- [https://www.apache.org/dyn/closer.lua/spark/spark-3.3.2/spark-3.3.2-bin-hadoop2.tgz]
-Winutils Software:- [https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe]
+- Java JDK:- [https://rb.gy/nk8zw]
+-Python Software:-[https://www.python.org/downloads/release/python-367/]
+-Spark software:- [https://www.apache.org/dyn/closer.lua/spark/spark-3.3.2/spark-3.3.2-bin-hadoop2.tgz]
+-Winutils Software:- [https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe]
 
 
 ** software location download & install. **
