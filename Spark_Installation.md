@@ -15,6 +15,6 @@ Set the Environment variables:-
 - %HADOOP_HOME%\bin
 - %SPARK_HOME%\bin
 
--- HADOOP_HOME contains Winutils path.
--- PYSPARK_HOME contains Python path. We can get python path by:
-1. Search "python" in windows search bar, then select "Open file location", copy than and add '\python.exe' in last.
+- HADOOP_HOME contains Winutils path.
+- PYSPARK_HOME contains Python path. We can get python path by:
+- Search "python" in windows search bar, then select "Open file location", copy than and add '\python.exe' in last.
